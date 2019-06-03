@@ -2,6 +2,6 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
     "Repo on Github":
-      - "//github.com/haaase/impl18"
+      - "//github.com/scala-loci/doc"
 plugins:
   - jekyll-remote-theme
