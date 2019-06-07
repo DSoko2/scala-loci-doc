@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Remote Access
-parent: How Tos
+parent: Getting Started
 nav_order: 2
 ---
 # Remote Access

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Peers and Ties
-parent: Introduction
+parent: Concepts
 nav_order: 1
 ---
 

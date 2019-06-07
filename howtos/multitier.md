@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Multitier Setup
-parent: How Tos
+parent: Getting Started
 nav_order: 1
 ---
 # Multitier Setup
